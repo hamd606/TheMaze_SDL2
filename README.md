@@ -1,2 +1,2 @@
 # The Maze
-HERE IT GOES THE README FILE
+Be ready you're entring the maze, there is no going back if you chose to proceed... You've been warned!!
